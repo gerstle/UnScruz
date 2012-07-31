@@ -1,0 +1,41 @@
+head	1.2;
+access;
+symbols;
+locks
+	scruzbm:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2009.04.10.17.44.00;	author scruzbm;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.04.09.19.24.50;	author scruzbm;	state Exp;
+branches;
+next	;
+
+
+desc
+@Init by /usr/local/cpanel/cpanel
+@
+
+
+1.2
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@creech:$1$qqyXtqv_$lQ7GwsKTKlAE8buGpFOeZ0:14343::::::
+bigmike:$1$qiRAOiNq$PmREj4pmrP3Q1sh4vg5o01:14344::::::
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+@

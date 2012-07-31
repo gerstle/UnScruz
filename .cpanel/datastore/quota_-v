@@ -1,0 +1,3 @@
+Disk quotas for user scruzbm (uid 34673): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/hda5   31060       0       0             568       0       0        

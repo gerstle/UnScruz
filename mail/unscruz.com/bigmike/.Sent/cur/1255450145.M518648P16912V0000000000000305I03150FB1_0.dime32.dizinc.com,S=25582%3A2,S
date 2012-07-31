@@ -1,0 +1,808 @@
+Message-ID: <4AD4A589.2020406@unscruz.com>
+Date: Tue, 13 Oct 2009 09:06:33 -0700
+From: Big Mike <bigmike@unscruz.com>
+User-Agent: Thunderbird 2.0.0.23 (Windows/20090812)
+MIME-Version: 1.0
+To: tracyspears@miztech.com, Scott Evans <scott@creativerg.com>
+Subject: Re: Fw: UnScruz web site UN-PW
+References: <1793694495-1255313000-cardhu_decombobulator_blackberry.rim.net-1540371624-@bda836.bisx.prod.on.blackberry>
+In-Reply-To: <1793694495-1255313000-cardhu_decombobulator_blackberry.rim.net-1540371624-@bda836.bisx.prod.on.blackberry>
+Content-Type: multipart/alternative;
+ boundary="------------030602060504040503040501"
+
+This is a multi-part message in MIME format.
+--------------030602060504040503040501
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+It seems to be working, Tracy. I just logged in, and the site was 
+updated on Oct 9.
+
+To access the website's CPanel, try https://unscruz.bm/cpanel/ using the 
+same credentials.
+
+If you continue to have problems, please send me a log of the failure. I 
+can help :-)
+
+Cheers,
+
+#####################################
+Connecting to unscruz...
+scruzbm@ftp.unscruz.com's password:
+sftp> cd www
+sftp> ls -l
+-rwxr--r--    1 scruzbm  scruzbm     70780 Apr 14 12:38 UnScruz2009.jpg
+-rwxr--r--    1 scruzbm  scruzbm    179823 Apr 14 13:09 
+UnScruzLayout2009.pdf
+drwxr-xr-x    2 scruzbm  scruzbm      4096 Apr  9  2009 cgi-bin
+drwxr-xr-x    2 scruzbm  scruzbm      4096 Oct  9 13:43 img
+-rw-r--r--    1 scruzbm  scruzbm      1555 Oct  9 13:42 index.html
+sftp> ls -l img
+-rw-r--r--    1 scruzbm  scruzbm     38932 Oct  9 13:42 bottom.jpg
+-rw-r--r--    1 scruzbm  scruzbm     12341 Oct  9 13:42 left.jpg
+-rw-r--r--    1 scruzbm  scruzbm     15962 Oct  9 13:43 lighthouse.jpg
+-rw-r--r--    1 scruzbm  scruzbm    123180 Oct  9 13:43 playa-BG1.jpg
+-rw-r--r--    1 scruzbm  scruzbm     24112 Oct  9 13:43 right.jpg
+-rw-r--r--    1 scruzbm  scruzbm    131664 Oct  9 13:43 scrus-bg2.jpg
+-rw-r--r--    1 scruzbm  scruzbm     52337 Oct  9 13:43 top.jpg
+
+
+
+Tracy Spears wrote:
+> Hey Big Mike! How are ya?
+>
+> So supposedly the password, etc. For the UnScruz site isn't working, Scott is not able to upload anything. 
+>
+> Will to please check on this for us?
+>
+> Thank you!
+> Tracy Spears                          tracyspears@miztech.com     831.419.2837
+>
+> -----Original Message-----
+> From: Scott <scott@creativerg.com>
+> Date: Sat, 10 Oct 2009 20:37:52 
+> To: Tracy Spears<tracyspears@miztech.com>
+> Subject: Re: UnScruz web site UN-PW
+>
+> Here's what I got
+>
+>
+>   
+>> Hey there again!
+>>
+>> When do you think the site will be ready to uplaod?
+>>
+>> Here's the FTP/hosting info for ya:
+>> host: ftp.unscruz.com
+>> user: scruzbm
+>> pass: Hi4Fire!
+>>
+>> Thank you!
+>>
+>>
+>>     
+>>> From: Scott <scott@creativerg.com>
+>>> Date: Fri, 18 Sep 2009 14:53:34 -0700
+>>> To: Tracy Spears <tracyspears@miztech.com>
+>>> Conversation: UnScruz web site
+>>> Subject: Re: UnScruz web site
+>>>
+>>> Oh, If the flier is okay, I will use it as a template for the postcard and
+>>> site.
+>>>
+>>>
+>>> on 9/18/09 1:44 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>
+>>>       
+>>>> YAY!
+>>>>
+>>>> Here's what the poster/flyer should say:
+>>>>
+>>>> UnScruz: The Santa Cruz Burning Man Decompression street party!
+>>>>
+>>>> It's a Decompression street arty, Santa Cruz style!
+>>>>
+>>>> Bring your dusty selves at noon for ten hours full of fire, dance, music,
+>>>> art, performance, theme camps, DJs and MORE!!!
+>>>>
+>>>> Where: Locust Street, between Cedar and Center Streets
+>>>> When: October 17, 2009
+>>>> Time: Noon to 10 pm
+>>>> Cost: $10.00 in Playa couture/costume; $15 in streetwear.
+>>>>
+>>>> For more information go to www.unscruz.com
+>>>>
+>>>>
+>>>> We also need a post card (4x6), too, if possible.
+>>>>
+>>>> I'm still waiting for the FTP/hosting info.
+>>>>
+>>>> Thank you so much!
+>>>>
+>>>>
+>>>>         
+>>>>> From: Scott <scott@creativerg.com>
+>>>>> Date: Fri, 18 Sep 2009 13:36:28 -0700
+>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>> Conversation: UnScruz web site
+>>>>> Subject: Re: UnScruz web site
+>>>>>
+>>>>> I need to finish up a few things and I'll get rolling on the site and flier
+>>>>>
+>>>>> S-)
+>>>>>
+>>>>>
+>>>>> on 9/18/09 1:32 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>
+>>>>>           
+>>>>>> Totally!
+>>>>>>
+>>>>>>
+>>>>>>             
+>>>>>>> From: Scott <scott@creativerg.com>
+>>>>>>> Date: Fri, 18 Sep 2009 13:28:17 -0700
+>>>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>>>> Conversation: UnScruz web site
+>>>>>>> Subject: Re: UnScruz web site
+>>>>>>>
+>>>>>>> That's cool too, that way we can include flaming art cars!
+>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>> on 9/18/09 1:17 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>>>
+>>>>>>>               
+>>>>>>>> YAY!
+>>>>>>>>
+>>>>>>>> Creech (the BM regional contact here) wanted it to be a street fair. A
+>>>>>>>> couple of us were pushing for beach, too, though!
+>>>>>>>>
+>>>>>>>>
+>>>>>>>>                 
+>>>>>>>>> From: Scott <scott@creativerg.com>
+>>>>>>>>> Date: Fri, 18 Sep 2009 09:07:20 -0700
+>>>>>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>>>>>> Conversation: UnScruz web site
+>>>>>>>>> Subject: Re: UnScruz web site
+>>>>>>>>>
+>>>>>>>>> I don't think so.
+>>>>>>>>> Let me look this over and see what I can pull today.
+>>>>>>>>>
+>>>>>>>>> Great idea! I hope it becomes as big or bigger fun than the SF ones!
+>>>>>>>>> Perhaps someday it can move down to the beach like old old burn days!
+>>>>>>>>>
+>>>>>>>>> S-)
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> on 9/17/09 9:33 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>>>>>
+>>>>>>>>>                   
+>>>>>>>>>> I can't do that unfortunately. Is that a problem?
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>                     
+>>>>>>>>>>> From: Scott <scott@creativerg.com>
+>>>>>>>>>>> Date: Thu, 17 Sep 2009 17:42:17 -0700
+>>>>>>>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>>>>>>>> Conversation: UnScruz web site
+>>>>>>>>>>> Subject: Re: UnScruz web site
+>>>>>>>>>>>
+>>>>>>>>>>> Also, if you can get the .ai files for the art that would be helpful!
+>>>>>>>>>>>
+>>>>>>>>>>> S-)
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> on 9/17/09 5:24 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>>>>>>>
+>>>>>>>>>>>                       
+>>>>>>>>>>>> Not on me but I can get it!!!
+>>>>>>>>>>>>
+>>>>>>>>>>>> THANK YOU!
+>>>>>>>>>>>>
+>>>>>>>>>>>>
+>>>>>>>>>>>>                         
+>>>>>>>>>>>>> From: Scott <scott@creativerg.com>
+>>>>>>>>>>>>> Date: Thu, 17 Sep 2009 14:37:28 -0700
+>>>>>>>>>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>>>>>>>>>> Conversation: UnScruz web site
+>>>>>>>>>>>>> Subject: Re: UnScruz web site
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Do you have the ftp-hosting info to upload to?
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> SR-)
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> on 9/17/09 1:56 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Still interested in helping with the UnSCruz web site? We need
+>>>>>>>>>>>>> something
+>>>>>>>>>>>>> up
+>>>>>>>>>>>>> ASAP, literally.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> I have attached the main and the web graphic. You can work with it
+>>>>>>>>>>>>> to
+>>>>>>>>>>>>> make
+>>>>>>>>>>>>> it work for the site. As you will see, the web graphic needs to
+>>>>>>>>>>>>> have
+>>>>>>>>>>>>> the
+>>>>>>>>>>>>> date changed or removed from the top.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Also, will you please use the graphic in some way that you can add
+>>>>>>>>>>>>> the
+>>>>>>>>>>>>> date,
+>>>>>>>>>>>>> time and place and other details so that I may also use it at a
+>>>>>>>>>>>>> flyer
+>>>>>>>>>>>>> (8.5
+>>>>>>>>>>>>> x
+>>>>>>>>>>>>> 11) and it's legible? I will want two of these -- one with just the
+>>>>>>>>>>>>> date,
+>>>>>>>>>>>>> time and place and one with as much as you can fit on there.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> As for the web site, I believe we need the following:
+>>>>>>>>>>>>> 1) home page with main details
+>>>>>>>>>>>>> 2) volunteer page (I'll be getting you a list of jobs we need done,
+>>>>>>>>>>>>> etc.
+>>>>>>>>>>>>> This will need to be updated periodically -- probably every couple
+>>>>>>>>>>>>> of
+>>>>>>>>>>>>> days
+>>>>>>>>>>>>> or so
+>>>>>>>>>>>>> 3) contact us page
+>>>>>>>>>>>>> Think we need anything else?
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Here is the main info:
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Price:
+>>>>>>>>>>>>> $10.00 in Playa couture/costume; $15.00 in streetwear
+>>>>>>>>>>>>> Date: 
+>>>>>>>>>>>>> Saturday, October 17, 2009
+>>>>>>>>>>>>> Time: 
+>>>>>>>>>>>>> 12:00pm - 10:00pm
+>>>>>>>>>>>>> Location:
+>>>>>>>>>>>>> Downtown Santa Cruz
+>>>>>>>>>>>>> Street:
+>>>>>>>>>>>>> Locust Street between Cedar and Center Streets
+>>>>>>>>>>>>> City/Town:
+>>>>>>>>>>>>> Santa Cruz, CA
+>>>>>>>>>>>>>     
+>>>>>>>>>>>>> It's a Decompression Street Party, Santa Cruz style! Please invite
+>>>>>>>>>>>>> everyone
+>>>>>>>>>>>>> you know!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Bring your dusty selves at noon for ten hours full of fire, dance,
+>>>>>>>>>>>>> music,
+>>>>>>>>>>>>> art, performance, theme camps, DJs, and MORE!!!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Enjoy the creative expression that only Santa Cruz can provide for
+>>>>>>>>>>>>> a
+>>>>>>>>>>>>> cost
+>>>>>>>>>>>>> of
+>>>>>>>>>>>>> only $10.00 in Playa couture/costume; $15.00 in streetwear.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Our first annual Santa Cruz Decompression will be a a showcase for
+>>>>>>>>>>>>> our
+>>>>>>>>>>>>> community so please help us bring our enchanted Black Rock City
+>>>>>>>>>>>>> magical
+>>>>>>>>>>>>> home
+>>>>>>>>>>>>> to the streets of Santa Cruz!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> We're looking for Art! Performers! Theme Camps! Volunteers! If you
+>>>>>>>>>>>>> are
+>>>>>>>>>>>>> a
+>>>>>>>>>>>>> ranger, would like to be a team lead/manger, greeter, spin fire,
+>>>>>>>>>>>>> perform,
+>>>>>>>>>>>>> PARTICIPATE, please let us know!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> If you're interested in becoming a part of UnScruz! Please send an
+>>>>>>>>>>>>> email
+>>>>>>>>>>>>> to
+>>>>>>>>>>>>> santacruz@burningman.com for more information.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Stay tuned for a list of theme camps, DJs, etc. who will be
+>>>>>>>>>>>>> participating!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> And please remember...this is a LEAVE NO TRACE EVENT : )
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> From: Scott <scott@creativerg.com>
+>>>>>>>>>>>>> Date: Fri, 21 Aug 2009 21:41:40 -0700
+>>>>>>>>>>>>> To: Tracy Spears <tracyspears@miztech.com>
+>>>>>>>>>>>>> Conversation: UnScruz web site
+>>>>>>>>>>>>> Subject: Re: UnScruz web site
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Sure,
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Hey also, we have a gal in our camp whos car died and she needs a
+>>>>>>>>>>>>> ride
+>>>>>>>>>>>>> to
+>>>>>>>>>>>>> the playa,  Know anyone with a seat available? She's a kind sweet
+>>>>>>>>>>>>> girl
+>>>>>>>>>>>>> and
+>>>>>>>>>>>>> would be a great travel partner.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Scott
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> on 8/21/09 12:07 PM, Tracy Spears at tracyspears@miztech.com wrote:
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Any chance you might want to do a pro bono job for the Santa Cruz
+>>>>>>>>>>>>> Burning
+>>>>>>>>>>>>> Man region and design a simple web site for UnScruz.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> We already have the poster/artwork so it would be based on that
+>>>>>>>>>>>>> design.
+>>>>>>>>>>>>> All
+>>>>>>>>>>>>> we need are like three or four pages -- home, about, contact, and
+>>>>>>>>>>>>> possibly
+>>>>>>>>>>>>> one other page.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> I'd take your design and give it to a developer who has offered to
+>>>>>>>>>>>>> do
+>>>>>>>>>>>>> the
+>>>>>>>>>>>>> development pro bono as well. YAY!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Let me know!
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Thanks,
+>>>>>>>>>>>>> Tracy
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>                           
+>>>>>>>>>>>>
+>>>>>>>>>>>>                         
+>>>>>>>>>>>                       
+>>>>>>>>>>
+>>>>>>>>>>                     
+>>>>>>>>>                   
+>>>>>>>>
+>>>>>>>>                 
+>>>>>>>               
+>>>>>>
+>>>>>>             
+>>>>>           
+>>>>
+>>>>         
+>>>       
+>>
+>>     
+>
+>
+>   
+
+
+-- 
+Big Mike
+Those who hear not the music, think the dancers mad ~{°¿°}~
+
+
+--------------030602060504040503040501
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+  <title></title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+It seems to be working, Tracy. I just logged in, and the site was
+updated on Oct 9.<br>
+<br>
+To access the website's CPanel, try <a class="moz-txt-link-freetext" href="https://unscruz.bm/cpanel/">https://unscruz.bm/cpanel/</a> using
+the same credentials.<br>
+<br>
+If you continue to have problems, please send me a log of the failure.
+I can help :-)<br>
+<br>
+Cheers,<br>
+<br>
+#####################################<br>
+Connecting to unscruz...<br>
+<a class="moz-txt-link-abbreviated" href="mailto:scruzbm@ftp.unscruz.com">scruzbm@ftp.unscruz.com</a>'s password:<br>
+sftp&gt; cd www<br>
+sftp&gt; ls -l<br>
+-rwxr--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 70780 Apr 14 12:38 UnScruz2009.jpg<br>
+-rwxr--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp; 179823 Apr 14 13:09
+UnScruzLayout2009.pdf<br>
+drwxr-xr-x&nbsp;&nbsp;&nbsp; 2 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4096 Apr&nbsp; 9&nbsp; 2009 cgi-bin<br>
+drwxr-xr-x&nbsp;&nbsp;&nbsp; 2 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4096 Oct&nbsp; 9 13:43 img<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1555 Oct&nbsp; 9 13:42 index.html<br>
+sftp&gt; ls -l img<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 38932 Oct&nbsp; 9 13:42 bottom.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 12341 Oct&nbsp; 9 13:42 left.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 15962 Oct&nbsp; 9 13:43 lighthouse.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp; 123180 Oct&nbsp; 9 13:43 playa-BG1.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 24112 Oct&nbsp; 9 13:43 right.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp; 131664 Oct&nbsp; 9 13:43 scrus-bg2.jpg<br>
+-rw-r--r--&nbsp;&nbsp;&nbsp; 1 scruzbm&nbsp; scruzbm&nbsp;&nbsp;&nbsp;&nbsp; 52337 Oct&nbsp; 9 13:43 top.jpg<br>
+<br>
+<br>
+<br>
+Tracy Spears wrote:
+<blockquote
+ cite="mid:1793694495-1255313000-cardhu_decombobulator_blackberry.rim.net-1540371624-@bda836.bisx.prod.on.blackberry"
+ type="cite">
+  <pre wrap="">Hey Big Mike! How are ya?
+
+So supposedly the password, etc. For the UnScruz site isn't working, Scott is not able to upload anything. 
+
+Will to please check on this for us?
+
+Thank you!
+Tracy Spears                          <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a>     831.419.2837
+
+-----Original Message-----
+From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Sat, 10 Oct 2009 20:37:52 
+To: Tracy Spears<a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Subject: Re: UnScruz web site UN-PW
+
+Here's what I got
+
+
+  </pre>
+  <blockquote type="cite">
+    <pre wrap="">Hey there again!
+
+When do you think the site will be ready to uplaod?
+
+Here's the FTP/hosting info for ya:
+host: <a class="moz-txt-link-abbreviated" href="ftp://ftp.unscruz.com">ftp.unscruz.com</a>
+user: scruzbm
+pass: Hi4Fire!
+
+Thank you!
+
+
+    </pre>
+    <blockquote type="cite">
+      <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Fri, 18 Sep 2009 14:53:34 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+Oh, If the flier is okay, I will use it as a template for the postcard and
+site.
+
+
+on 9/18/09 1:44 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+      </pre>
+      <blockquote type="cite">
+        <pre wrap="">YAY!
+
+Here's what the poster/flyer should say:
+
+UnScruz: The Santa Cruz Burning Man Decompression street party!
+
+It's a Decompression street arty, Santa Cruz style!
+
+Bring your dusty selves at noon for ten hours full of fire, dance, music,
+art, performance, theme camps, DJs and MORE!!!
+
+Where: Locust Street, between Cedar and Center Streets
+When: October 17, 2009
+Time: Noon to 10 pm
+Cost: $10.00 in Playa couture/costume; $15 in streetwear.
+
+For more information go to <a class="moz-txt-link-abbreviated" href="http://www.unscruz.com">www.unscruz.com</a>
+
+
+We also need a post card (4x6), too, if possible.
+
+I'm still waiting for the FTP/hosting info.
+
+Thank you so much!
+
+
+        </pre>
+        <blockquote type="cite">
+          <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Fri, 18 Sep 2009 13:36:28 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+I need to finish up a few things and I'll get rolling on the site and flier
+
+S-)
+
+
+on 9/18/09 1:32 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+          </pre>
+          <blockquote type="cite">
+            <pre wrap="">Totally!
+
+
+            </pre>
+            <blockquote type="cite">
+              <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Fri, 18 Sep 2009 13:28:17 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+That's cool too, that way we can include flaming art cars!
+
+
+
+
+on 9/18/09 1:17 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+              </pre>
+              <blockquote type="cite">
+                <pre wrap="">YAY!
+
+Creech (the BM regional contact here) wanted it to be a street fair. A
+couple of us were pushing for beach, too, though!
+
+
+                </pre>
+                <blockquote type="cite">
+                  <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Fri, 18 Sep 2009 09:07:20 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+I don't think so.
+Let me look this over and see what I can pull today.
+
+Great idea! I hope it becomes as big or bigger fun than the SF ones!
+Perhaps someday it can move down to the beach like old old burn days!
+
+S-)
+
+
+on 9/17/09 9:33 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+                  </pre>
+                  <blockquote type="cite">
+                    <pre wrap="">I can't do that unfortunately. Is that a problem?
+
+
+                    </pre>
+                    <blockquote type="cite">
+                      <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Thu, 17 Sep 2009 17:42:17 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+Also, if you can get the .ai files for the art that would be helpful!
+
+S-)
+
+
+on 9/17/09 5:24 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+                      </pre>
+                      <blockquote type="cite">
+                        <pre wrap="">Not on me but I can get it!!!
+
+THANK YOU!
+
+
+                        </pre>
+                        <blockquote type="cite">
+                          <pre wrap="">From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Thu, 17 Sep 2009 14:37:28 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+Do you have the ftp-hosting info to upload to?
+
+SR-)
+
+
+on 9/17/09 1:56 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+Still interested in helping with the UnSCruz web site? We need
+something
+up
+ASAP, literally.
+
+I have attached the main and the web graphic. You can work with it
+to
+make
+it work for the site. As you will see, the web graphic needs to
+have
+the
+date changed or removed from the top.
+
+Also, will you please use the graphic in some way that you can add
+the
+date,
+time and place and other details so that I may also use it at a
+flyer
+(8.5
+x
+11) and it's legible? I will want two of these -- one with just the
+date,
+time and place and one with as much as you can fit on there.
+
+As for the web site, I believe we need the following:
+1) home page with main details
+2) volunteer page (I'll be getting you a list of jobs we need done,
+etc.
+This will need to be updated periodically -- probably every couple
+of
+days
+or so
+3) contact us page
+Think we need anything else?
+
+
+
+Here is the main info:
+
+Price:
+$10.00 in Playa couture/costume; $15.00 in streetwear
+Date: 
+Saturday, October 17, 2009
+Time: 
+12:00pm - 10:00pm
+Location:
+Downtown Santa Cruz
+Street:
+Locust Street between Cedar and Center Streets
+City/Town:
+Santa Cruz, CA
+    
+It's a Decompression Street Party, Santa Cruz style! Please invite
+everyone
+you know!
+
+Bring your dusty selves at noon for ten hours full of fire, dance,
+music,
+art, performance, theme camps, DJs, and MORE!!!
+
+Enjoy the creative expression that only Santa Cruz can provide for
+a
+cost
+of
+only $10.00 in Playa couture/costume; $15.00 in streetwear.
+
+Our first annual Santa Cruz Decompression will be a a showcase for
+our
+community so please help us bring our enchanted Black Rock City
+magical
+home
+to the streets of Santa Cruz!
+
+We're looking for Art! Performers! Theme Camps! Volunteers! If you
+are
+a
+ranger, would like to be a team lead/manger, greeter, spin fire,
+perform,
+PARTICIPATE, please let us know!
+
+If you're interested in becoming a part of UnScruz! Please send an
+email
+to
+<a class="moz-txt-link-abbreviated" href="mailto:santacruz@burningman.com">santacruz@burningman.com</a> for more information.
+
+Stay tuned for a list of theme camps, DJs, etc. who will be
+participating!
+
+And please remember...this is a LEAVE NO TRACE EVENT : )
+
+
+
+From: Scott <a class="moz-txt-link-rfc2396E" href="mailto:scott@creativerg.com">&lt;scott@creativerg.com&gt;</a>
+Date: Fri, 21 Aug 2009 21:41:40 -0700
+To: Tracy Spears <a class="moz-txt-link-rfc2396E" href="mailto:tracyspears@miztech.com">&lt;tracyspears@miztech.com&gt;</a>
+Conversation: UnScruz web site
+Subject: Re: UnScruz web site
+
+Sure,
+
+Hey also, we have a gal in our camp whos car died and she needs a
+ride
+to
+the playa,  Know anyone with a seat available? She's a kind sweet
+girl
+and
+would be a great travel partner.
+
+Scott
+
+
+on 8/21/09 12:07 PM, Tracy Spears at <a class="moz-txt-link-abbreviated" href="mailto:tracyspears@miztech.com">tracyspears@miztech.com</a> wrote:
+
+Any chance you might want to do a pro bono job for the Santa Cruz
+Burning
+Man region and design a simple web site for UnScruz.
+
+We already have the poster/artwork so it would be based on that
+design.
+All
+we need are like three or four pages -- home, about, contact, and
+possibly
+one other page.
+
+I'd take your design and give it to a developer who has offered to
+do
+the
+development pro bono as well. YAY!
+
+Let me know!
+
+Thanks,
+Tracy
+
+
+
+
+
+
+
+
+                          </pre>
+                        </blockquote>
+                        <pre wrap="">
+
+                        </pre>
+                      </blockquote>
+                      <pre wrap="">
+                      </pre>
+                    </blockquote>
+                    <pre wrap="">
+
+                    </pre>
+                  </blockquote>
+                  <pre wrap="">
+                  </pre>
+                </blockquote>
+                <pre wrap="">
+
+                </pre>
+              </blockquote>
+              <pre wrap="">
+              </pre>
+            </blockquote>
+            <pre wrap="">
+
+            </pre>
+          </blockquote>
+          <pre wrap="">
+          </pre>
+        </blockquote>
+        <pre wrap="">
+
+        </pre>
+      </blockquote>
+      <pre wrap="">
+      </pre>
+    </blockquote>
+    <pre wrap="">
+
+    </pre>
+  </blockquote>
+  <pre wrap=""><!---->
+
+  </pre>
+</blockquote>
+<br>
+<br>
+<pre class="moz-signature" cols="144">-- 
+Big Mike
+Those who hear not the music, think the dancers mad ~{&deg;&iquest;&deg;}~</pre>
+</body>
+</html>
+
+--------------030602060504040503040501--
+

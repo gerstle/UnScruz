@@ -1,0 +1,16 @@
+--- 
+__version: '2.1'
+unscruz.com: 
+  account_count: 2
+  accounts: 
+    bigmike: 
+      disk_mtime: '1343757925'
+      diskquota: 262144000
+      diskused: 3646742
+    creech: 
+      disk_mtime: '1343757925'
+      diskquota: 262144000
+      diskused: 11250013
+  disk_mtime: '1343757925'
+  passwd_mtime: '1343757925'
+  quota_mtime: '1343757925'

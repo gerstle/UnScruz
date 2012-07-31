@@ -1,0 +1,49 @@
+Return-path: <ryanjay831@gmail.com>
+Envelope-to: Creech@unscruz.com
+Delivery-date: Thu, 09 Sep 2010 12:50:25 -0400
+Received: from mail-qy0-f174.google.com ([209.85.216.174]:50065)
+	by dime32.dizinc.com with esmtp (Exim 4.69)
+	(envelope-from <ryanjay831@gmail.com>)
+	id 1OtkKP-0000IT-31
+	for Creech@unscruz.com; Thu, 09 Sep 2010 12:50:25 -0400
+Received: by qyk36 with SMTP id 36so6522532qyk.12
+        for <Creech@unscruz.com>; Thu, 09 Sep 2010 09:50:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=n2x0ioHKsPva56kvKO3lzpILOQVqR7QpFdHsCas9nw4=;
+        b=FiuY0O3EaDazsDqng57bW8/3EyKkFh8XEjU0IDa+qTkG1lu72vEbwhWJoHqaOP6XJ/
+         mXD6zWhIYkOxvs2+hRj9VaShpz2E14+l82B2tXYopZpBn1kjS7vm9GHYsNoehxJGNxNG
+         yyhGW58VDOrx/FASYseEuo16iETpQ48Hw/mnM=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=cHotXbjveuPCI3v+FvnQpcRNGYFsfqpRBHLdYgBENnwE5HixyK1YzO15K1RCSHu5QT
+         kJTTIBbzlZ74xlx9Atn42CQxolmrtJE69yfePz7Ojct9XjGfJaWDv+VxTqTMO/dc/4JW
+         a9cmua9s3V2ImGvalcpaD48DHBLKaSinmf2So=
+MIME-Version: 1.0
+Received: by 10.224.37.19 with SMTP id v19mr117506qad.66.1284051022378; Thu,
+ 09 Sep 2010 09:50:22 -0700 (PDT)
+Received: by 10.224.73.130 with HTTP; Thu, 9 Sep 2010 09:50:22 -0700 (PDT)
+Date: Thu, 9 Sep 2010 09:50:22 -0700
+Message-ID: <AANLkTi=iK0sLtS3KPmz4em94kdpj7w7m-YN9gWd0LsYZ@mail.gmail.com>
+Subject: Stage at UnScruz
+From: ryan jay <ryanjay831@gmail.com>
+To: Creech@unscruz.com
+Content-Type: multipart/alternative; boundary=001517503cc81006e4048fd66dcc
+
+--001517503cc81006e4048fd66dcc
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello. I'd like to do a stage at unscruz like the one i did last time. Let
+me know if you have space again. Thanks.
+
+-Ryan Jay
+
+--001517503cc81006e4048fd66dcc
+Content-Type: text/html; charset=ISO-8859-1
+
+Hello. I&#39;d like to do a stage at unscruz like the one i did last time. Let me know if you have space again. Thanks.<br><br>-Ryan Jay<br>
+
+--001517503cc81006e4048fd66dcc--
