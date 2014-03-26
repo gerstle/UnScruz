@@ -1,0 +1,84 @@
+body {
+  background-image: url(img/unscruz2014.jpg);
+  background-repeat: no-repeat;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FFF;
+}
+.headline {
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.00em;
+  font-weight: bold;
+}
+.subheadline {
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.75em;
+  font-weight: bold;
+}
+tr {
+  vertical-align: top;
+}
+td.headline {
+  valign: top;
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.25em;
+  font-weight: bold;
+  text-align: right;
+  border-right: 1px solid #921002;
+  padding: 12px 6px 0 0;
+}
+td.content {
+  padding: 16px 0 0 6px;
+  color: #ccc;
+}
+a:link {
+  color: #921002;
+  text-decoration: none;
+}
+a:visited {
+  color: #921002;
+  text-decoration: none;
+}
+.fineprint {
+  font-size: .75em;
+}
+
+div.content {
+  padding-left: 577px;
+  height: 720px;
+  display: table;
+}
+
+table.content {
+  border-left: 1px solid #921002;
+  padding-left: 6px;
+}
+
+.gray-background {
+  padding: 6px;
+  background-color: #222;
+}
+
+.dlg-red-title .ui-dialog-titlebar {
+  color: #921002;
+}
+
+.dlg-one-em .ui-widget {
+  font-size: 1em;
+}
+
+.question {
+  font-size: 1em;
+  border-bottom: 1px solid #921002;
+  padding-left: 3px;
+}
+
+.answer {
+  font-size: .8em;
+  padding-left: 24px;
+  margin: 3px 0 20px 0;
+  color: #ccc;
+}
