@@ -83,7 +83,7 @@ table.content {
   color: #ccc;
 }
 
-#faq_link {
+.dialog-link {
   cursor: pointer;
   color: #921002;
 }

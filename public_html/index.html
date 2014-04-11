@@ -4,11 +4,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>UnSCruz- Santa Cruz Burning Man Regional 2014</title>
 
-    <link href="style.css" rel="stylesheet" type="text/css" />
-
     <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/ui-darkness/jquery-ui.css" rel="stylesheet">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
 
     <meta name="Keywords" content="burning man, decompression, party, santa cruz" />
     <script type="text/javascript">
@@ -79,7 +78,7 @@
                     <tr>
                       <td class="headline">questions?</td>
                       <td class="content">
-                          <span id="faq_link">answers</span>
+                          <span id="faq_link" class="dialog-link">answers</span>
                       </td>
                     </tr>
                 </table>
@@ -98,8 +97,8 @@
         </tr>
         <tr>
           <td>
-            <p>Volunteers needed before, during, and after the event!<br/>
-            Apply here: <a href="http://bit.ly/NUyodx">http://bit.ly/NUyodx</a></p>
+            <p>Volunteers needed before, during, and after the event - <span id="volunteer_link" class="dialog-link">Click here to volunteer!</span>
+            </p>
             <p>Want to bring your art, music, talent? We want it!<br/>
             To apply, please fill out the questionnaire below:</p>
             <div style="padding-left: 24px">
@@ -215,6 +214,15 @@
       </div>
     </div>
 
+    <div id="volunteer_dialog" class="dlg-one-em" title="UnSCruz Volunteers">
+      <p>One significant and incredible aspect of Burning Man culture is volunteerism.  Volunteering your time is a tremendous gift, and it is also a great way to get involved, in what is essentially <strong>your</strong> event.  UnSCruz cannot exist without volunteers. This is a not-for-profit event, no one gets paid a dime, and many people contribute 100s of hours to make it happen.  The funds we collect in ticket sales go right back into making UnSCruz happen again, at an affordable price.  Thank you so much, your help is very much appreciated!!</p>
+      <p>
+        In order to handle the large number of volunteers needed to pull of this event, we ask that you fill out this survey as part of the application process: <a href="http://bit.ly/NUyodx" target="_blank">http://bit.ly/NUyodx</a>
+      </p>
+      <p><strong>If</strong> you've been there and done that and know what you'd like to help out with and when, you can also go directly to the shift sign-up sheet and put your name down: <a href="http://bit.ly/1evt6MR" target="_blank">http://bit.ly/1evt6MR</a>
+
+    </div>
+
     <script>
       $(function() {
         $("#faq_dialog").dialog({
@@ -226,6 +234,17 @@
 
         $("#faq_link").on("click", function(event) {
           $("#faq_dialog").dialog("open");
+        });
+
+        $("#volunteer_dialog").dialog({
+          autoOpen: false,
+          modal: true,
+          dialogClass: "dlg-one-em dlg-red-title",
+          width: "65%"
+        });
+
+        $("#volunteer_link").on("click", function(event) {
+          $("#volunteer_dialog").dialog("open");
         });
       });
     </script>
