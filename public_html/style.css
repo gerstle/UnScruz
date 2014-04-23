@@ -62,6 +62,10 @@ table.content {
   background-color: #222;
 }
 
+.red {
+  color: #921002;
+}
+
 .dlg-red-title .ui-dialog-titlebar {
   color: #921002;
 }
