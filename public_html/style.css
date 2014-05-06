@@ -91,3 +91,23 @@ table.content {
   cursor: pointer;
   color: #921002;
 }
+
+.schedule-header {
+  padding: 6px;
+  background-color: #999;
+  font-size: 1.2em;
+}
+
+.schedule-time {
+  padding: 6px 6px 2px 12px;
+}
+
+.schedule-dj {
+  padding: 0px 6px 6px 48px;
+}
+
+.schedule-day {
+  padding: 6px;
+  background-color: #921002;
+  font-size: 1.2em;
+}
