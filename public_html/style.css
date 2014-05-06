@@ -1,6 +1,4 @@
 body {
-  background-image: url(img/unscruz2014.jpg);
-  background-repeat: no-repeat;
   background-color: black;
   font-family: Arial, Helvetica, sans-serif;
   color: #FFF;
@@ -30,9 +28,13 @@ td.headline {
   border-right: 1px solid #921002;
   padding: 12px 6px 0 0;
 }
+td {
+  padding: 6px;
+}
 td.content {
-  padding: 16px 0 0 6px;
+  text-align: center;
   color: #ccc;
+  border-left: 1px solid #921002;
 }
 a:link {
   color: #921002;
@@ -47,13 +49,9 @@ a:visited {
 }
 
 div.content {
-  padding-left: 577px;
-  height: 720px;
-  display: table;
 }
 
 table.content {
-  border-left: 1px solid #921002;
   padding-left: 6px;
 }
 
